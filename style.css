@@ -1,0 +1,55 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    color: white;
+    font-family: 'Itim', cursive;
+    background-color: #0E2F2F;
+    }
+    h2{
+        text-shadow: 2px 2px 1px rgb(91, 92, 95);
+        margin-left: 40px
+
+    }
+    button{
+        background-color: rgb(247, 173, 82);
+        border-radius: 10px;
+        padding: 10px;
+        margin-left: 40px;
+    }
+    #btn :hover{
+        background-color: rgb(83, 83, 82);
+        border-top-left-radius: 65px;
+        border-bottom-right-radius: 65px;
+
+    }
+   
+    
+     
+    #date input{
+        padding-left: 20px;
+        margin-left: 30px;
+        border-radius: 8px;
+         padding: 5px;
+         background-color: rgb(83, 83, 82);
+         
+        
+    }
+    form{
+    margin-left: 35%;
+    margin-top: 20px;
+    }
+    p{
+        margin-left:25px;
+    }
+    #logo i{
+        padding: 20px;
+     
+    
+           
+    }
+    #logo{
+        margin-left: 36.2%;
+      
+    }
+    
